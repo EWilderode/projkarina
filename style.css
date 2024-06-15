@@ -87,7 +87,7 @@ section#img01 {
 }
 section#img02 {
     background-image: url(imagens/imagem2.jpg);
-    background-position: center;
+    background-position: fixed;
 }
 
 footer{
